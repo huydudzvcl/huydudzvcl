@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 cd /sdcard/download && python gop.py
 
-
+python toolkedo.py
 
 
 
